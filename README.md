@@ -1,6 +1,6 @@
 # fe-exercise
 
-This exercise scaffold uses [Vite](https://vite.dev/) for build and local development with [Vitest](https://vitest.dev/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) with [User event](https://testing-library.com/docs/user-event/intro/) for tests. The scaffold includes a [Github Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) workflow to run build, lint and test jobs.
+This exercise scaffold uses [Vite](https://vite.dev/) for build and [Vitest](https://vitest.dev/) with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) and [User event](https://testing-library.com/docs/user-event/intro/) for tests. The scaffold includes a [Github Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) workflow to run build, lint and test jobs.
 
 ## Candidate instructions
 
