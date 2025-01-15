@@ -24,7 +24,10 @@ You can then start the exercise, good luck! 🍀
 
 ### 3. Submitting the exercise
 
+We will evaluate the exercise by checking it out locally and running in develop mode. Please do not deploy it anywhere.
+
 - Ensure you have met the criteria
+- Check the application runs locally with `npm start`
 - Check that the Actions workflows are passing
 - Add the reviewer's email / Github name as [collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on your repo.
 - Contact the recruiter to let them know you have completed the exercise.
